@@ -1,4 +1,6 @@
-![](https://github.com/Ethgard/BikeAlert/blob/master/Logo.png)
+<center>
+  ![](https://github.com/Ethgard/BikeAlert/blob/master/Logo.png)
+  </center>
 
 # Project Description
 
