@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BikeSensor</string>
+    <string name="please">Please login:</string>
+    <string name="name">userame</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="exit">exit</string>
+    <string name="welcome">BikeSensor</string>
+    <string name="hello_world">Bluetooth address</string>
+    <string name="action_settings">Settings</string>
+    <string name="device_details">Device name \nDevice address</string>
+    <string name="battery_power">Battery power:</string>
+    <string name="device_moving">Device is moving!</string>
+    <string name="clean">clean</string>
+    <string name="test_alert">alert</string>
+    <string name="test_precent">precentage</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="clean_msg">cleanMsg</string>
+    <string name="test_mode">For internal use</string>
+    <string name="go">go!</string>
+    <string name="channel_name">go!</string>
+    <string name="channel_description">go!</string>
+    <string name="choose_dev">Please choose device!</string>
+</resources>
