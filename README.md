@@ -1,7 +1,4 @@
-<center>
-  ![](https://github.com/Ethgard/BikeAlert/blob/master/Logo.png)
-  </center>
-
+<center>![](https://github.com/Ethgard/BikeAlert/blob/master/Logo.png)</center>
 # Project Description
 
 BikeAlert is designed to solve electrical bike and battery theft in urban cities around the world.
